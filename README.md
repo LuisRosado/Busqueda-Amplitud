@@ -18,6 +18,10 @@ En este proyecto, el algoritmo BFS se implementa en Python utilizando la bibliot
 
 ## Resultados
 
+![corrida4](https://github.com/LuisRosado/Busqueda-Amplitud/assets/140114139/4a57df1a-949e-402b-a5fe-b7e2e875fcfa)
+![corrida](https://github.com/LuisRosado/Busqueda-Amplitud/assets/140114139/ae235bd7-38d9-449c-b589-a31ca0aaf778)
+![corrida2](https://github.com/LuisRosado/Busqueda-Amplitud/assets/140114139/4311a437-2495-465d-b85f-b269b462f087)
+![corrida3](https://github.com/LuisRosado/Busqueda-Amplitud/assets/140114139/21696947-6f17-4996-bf02-38616ab1e63d)
 
 ## Contribuciones
 
